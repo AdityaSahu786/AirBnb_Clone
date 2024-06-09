@@ -16,7 +16,7 @@ const LandlordDetailPage = () => {
                         alt='Landlord name'
                         className="rounded-full"
                         />
-
+                         
                         <h1 className="mt-6 text-2xl">Landlord name</h1>
                          
                          <ContactButton />
